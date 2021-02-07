@@ -3,7 +3,7 @@
 ## For Vietnamese
   Ứng dụng Lịch để chọn giá trị ngày tháng cho Excel
 ### CÀI ĐẶT
-
+![Image]()
 ### BẮT ĐẦU
 Khi khởi động ứng dụng sẽ tự động khởi tạo
 Để hiện Icon để mở Lịch thì Ô đang chọn phải có giá trị là Ngày tháng, hoặc ô liền kề trên hoặc liền kề dưới là ngày tháng.
